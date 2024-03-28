@@ -2,7 +2,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Version-Initial_Release_[0.1]-blue">
 <img src="https://img.shields.io/badge/Built-Batch_File-blue">
-![image](https://github.com/sjapanwala/winfetch/assets/92124191/38855a0e-b1b4-4a47-b83a-5630bae7baad)
+</p>
+<p align="center">
+  ![image](https://github.com/sjapanwala/winfetch/assets/92124191/38855a0e-b1b4-4a47-b83a-5630bae7baad)
 </p>
 
 
